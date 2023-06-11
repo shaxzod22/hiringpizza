@@ -17,6 +17,7 @@ body{
     justify-content: center;
     font-family: sans-serif;
     background-color: aqua;
+    height: 100vh;
 }
 
 .main__heading{
